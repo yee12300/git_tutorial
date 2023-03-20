@@ -1,7 +1,11 @@
 <<<<<<< HEAD
 1 line
 2 line
+<<<<<<< Updated upstream
 =======
 First line
 Second line
 >>>>>>> f43a458 (First commit from new_branch)
+=======
+3 line
+>>>>>>> Stashed changes
